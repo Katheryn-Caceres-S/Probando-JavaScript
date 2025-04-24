@@ -2,15 +2,15 @@
 
 
 
-
-
-
-
-
 .h2 {
   color: black;
 }
 
 body {
   font-weight: 400;
+}
+
+#div {
+  background-color: aqua;
+  width: 100px;
 }
